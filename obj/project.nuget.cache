@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IuIUyrwuG9Tl3GNHvtNSmxL/zKwP0j3m8UWMW9jItZplpwUQB+9IWTibmUzTLPe6z8C3PigDjh70LTspEiUV2g==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Challenge-Minesweeper\\Challenge-Minesweeper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dany_\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\dany_\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
